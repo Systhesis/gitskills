@@ -1,2 +1,0 @@
-新建了dev和feature分支，添加了test.txt文件
-修复了bug
